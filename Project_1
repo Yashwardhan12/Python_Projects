@@ -16,7 +16,7 @@ chemical_names = [
 chemicals = []
 prices = []
 
-# Function to add a chemical
+ # Function to add a chemical
 def add_chemical():
     try:
         index = int(choice_var.get()) - 1
